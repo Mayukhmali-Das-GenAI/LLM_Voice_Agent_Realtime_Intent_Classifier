@@ -104,7 +104,14 @@ I trained the base model for 3 epochs.
 
 ```
 Epoch 3/3
+Epoch 3 completed. Average Training Loss: 0.0313
+Validation Loss: 0.0649
+Precision: 0.9681, Recall: 1.0000, F1 Score: 0.9838, Event Rate: 0.3957
 
+Example Prediction:
+[LLM] What's the exchange rate for euros to dollars?
+[Non-LLM] Coming mom give me 5 mins
+[LLM] Make a basic itinerary for my Europe trip
 
 ```
 
