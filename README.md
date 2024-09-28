@@ -129,3 +129,6 @@ Example Prediction:
    - See real-time transcription of speech to text
    - View instant intent classification results
    - Monitor confidence scores in real-time
+  
+![image](https://github.com/user-attachments/assets/a8a08fc2-dde1-4411-83be-79cd550859d9)
+
