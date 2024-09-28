@@ -1,0 +1,2902 @@
+[
+{
+"ID": 1,
+"Segments": [
+["What's the weather like today?", "LLM"],
+["Hey Sarah, did you finish the report?", "Non-LLM"],
+["Set a reminder for my meeting at 3 PM.", "LLM"]
+]
+},
+{
+"ID": 2,
+"Segments": [
+["Play some relaxing music.", "LLM"],
+["Mike, are you coming to the party tonight?", "Non-LLM"]
+]
+},
+{
+"ID": 3,
+"Segments": [
+["Mom, I'll be home late tonight.", "Non-LLM"],
+["Find the nearest coffee shop.", "LLM"],
+["What's the traffic like on the way to downtown?", "LLM"]
+]
+},
+{
+"ID": 4,
+"Segments": [
+["Show me my photos from last summer.", "LLM"],
+["Alex, do you remember where we put the souvenir from the trip?", "Non-LLM"],
+["Create a new album called 'Vacation'.", "LLM"]
+]
+},
+{
+"ID": 5,
+"Segments": [
+["Set an alarm for 7 AM tomorrow.", "LLM"],
+["Hey Dad, can you help me fix my bike?", "Non-LLM"]
+]
+},
+{
+"ID": 6,
+"Segments": [
+["Lisa, have you seen my keys?", "Non-LLM"],
+["Translate 'Good morning' to Spanish.", "LLM"],
+["How do you say 'Thank you' in French?", "LLM"]
+]
+},
+{
+"ID": 7,
+"Segments": [
+["Find recipes for vegan lasagna.", "LLM"],
+["Emma, would you like to try cooking together tonight?", "Non-LLM"],
+["Add tofu to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 8,
+"Segments": [
+["What's the latest news in technology?", "LLM"],
+["John, did you get the email from the client?", "Non-LLM"]
+]
+},
+{
+"ID": 9,
+"Segments": [
+["Calculate the quickest route to the airport.", "LLM"],
+["Honey, don't forget to pack your passport.", "Non-LLM"],
+["Check my flight status.", "LLM"]
+]
+},
+{
+"ID": 10,
+"Segments": [
+["Hey Chris, are you joining me for a run?", "Non-LLM"],
+["Play my workout playlist.", "LLM"],
+["What's my current heart rate?", "LLM"]
+]
+},
+{
+"ID": 11,
+"Segments": [
+["Remind me to call the doctor at noon.", "LLM"],
+["Mom, I hope you're feeling better today.", "Non-LLM"]
+]
+},
+{
+"ID": 12,
+"Segments": [
+["Find nearby Italian restaurants.", "LLM"],
+["Sarah, are you free for dinner tonight?", "Non-LLM"],
+["Book a table for two at 7 PM.", "LLM"]
+]
+},
+{
+"ID": 13,
+"Segments": [
+["What's the capital of Japan?", "LLM"],
+["Show me popular tourist attractions in Tokyo.", "LLM"],
+["Mike, let's plan our trip itinerary.", "Non-LLM"]
+]
+},
+{
+"ID": 14,
+"Segments": [
+["Set a timer for 20 minutes.", "LLM"],
+["Emma, can you please keep the noise down?", "Non-LLM"],
+["Start playing ambient sounds.", "LLM"]
+]
+},
+{
+"ID": 15,
+"Segments": [
+["Dad, do we need anything else from the store?", "Non-LLM"],
+["Add milk and eggs to my shopping list.", "LLM"],
+["Find coupons for the grocery store.", "LLM"]
+]
+},
+{
+"ID": 16,
+"Segments": [
+["What's the weather in New York City?", "LLM"],
+["Alex, could you send me the latest sales report?", "Non-LLM"]
+]
+},
+{
+"ID": 17,
+"Segments": [
+["Hey Lisa, have you listened to this episode yet?", "Non-LLM"],
+["Play the latest episode of my favorite podcast.", "LLM"],
+["Adjust the volume to 50%.", "LLM"]
+]
+},
+{
+"ID": 18,
+"Segments": [
+["Find movie showtimes for tonight.", "LLM"],
+["John, do you want to go to the movies tonight?", "Non-LLM"],
+["Book two tickets for the 8 PM show.", "LLM"]
+]
+},
+{
+"ID": 19,
+"Segments": [
+["What's my current account balance?", "LLM"],
+["Honey, did you already pay the rent?", "Non-LLM"],
+["Remind me to pay the electricity bill.", "LLM"]
+]
+},
+{
+"ID": 20,
+"Segments": [
+["Emma, let's go for a walk.", "Non-LLM"],
+["Show me my steps for today.", "LLM"],
+["Find nearby parks.", "LLM"]
+]
+},
+{
+"ID": 21,
+"Segments": [
+["Translate 'I love you' to German.", "LLM"],
+["Mike, I'm learning new phrases for our trip.", "Non-LLM"],
+["How do you say 'See you later' in Japanese?", "LLM"]
+]
+},
+{
+"ID": 22,
+"Segments": [
+["Set a reminder for my dentist appointment on Friday.", "LLM"],
+["Mom, can you drive me to the appointment?", "Non-LLM"],
+["Find directions to the clinic.", "LLM"]
+]
+},
+{
+"ID": 23,
+"Segments": [
+["Alex, have you considered investing in tech stocks?", "Non-LLM"],
+["What's the stock price of Apple today?", "LLM"],
+["Show me the market trends.", "LLM"]
+]
+},
+{
+"ID": 24,
+"Segments": [
+["Find yoga classes near me.", "LLM"],
+["Sarah, would you like to join a class with me?", "Non-LLM"],
+["Add yoga mat to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 25,
+"Segments": [
+["Honey, the kids spilled juice on the rug again.", "Non-LLM"],
+["What's the best way to get stains out of a carpet?", "LLM"],
+["Find cleaning services nearby.", "LLM"]
+]
+},
+{
+"ID": 26,
+"Segments": [
+["Play some classical music.", "LLM"],
+["Dad, have you read this book?", "Non-LLM"],
+["Open my reading list.", "LLM"]
+]
+},
+{
+"ID": 27,
+"Segments": [
+["Check the weather for this weekend.", "LLM"],
+["Emma, shall we go hiking on Saturday?", "Non-LLM"],
+["Suggest outdoor activities.", "LLM"]
+]
+},
+{
+"ID": 28,
+"Segments": [
+["Mike, don't forget we have an early meeting tomorrow.", "Non-LLM"],
+["Set an alarm for 6 AM.", "LLM"],
+["Prepare my morning briefing.", "LLM"]
+]
+},
+{
+"ID": 29,
+"Segments": [
+["What's on my to-do list today?", "LLM"],
+["Sarah, can you review the latest draft?", "Non-LLM"],
+["Schedule a meeting with the design team.", "LLM"]
+]
+},
+{
+"ID": 30,
+"Segments": [
+["Find the definition of 'serendipity'.", "LLM"],
+["Lisa, I love learning new words.", "Non-LLM"],
+["Add it to my vocabulary list.", "LLM"]
+]
+},
+{
+"ID": 31,
+"Segments": [
+["Waiter, could we get the check please?", "Non-LLM"],
+["Calculate the tip for a $75 bill.", "LLM"],
+["Find the nearest ATM.", "LLM"]
+]
+},
+{
+"ID": 32,
+"Segments": [
+["Order pizza from my favorite place.", "LLM"],
+["Hey everyone, food will be here in 30 minutes.", "Non-LLM"],
+["Track the delivery.", "LLM"]
+]
+},
+{
+"ID": 33,
+"Segments": [
+["Alex, did you hear about the new policy changes?", "Non-LLM"],
+["What's the latest headline news?", "LLM"],
+["Summarize the main stories.", "LLM"]
+]
+},
+{
+"ID": 34,
+"Segments": [
+["Remind me to water the plants every Monday.", "LLM"],
+["Mom, thanks for the plant you gave me.", "Non-LLM"],
+["Find tips on caring for succulents.", "LLM"]
+]
+},
+{
+"ID": 35,
+"Segments": [
+["Mike, are you ready for game night?", "Non-LLM"],
+["Play some upbeat music.", "LLM"],
+["Turn on the living room lights.", "LLM"]
+]
+},
+{
+"ID": 36,
+"Segments": [
+["Check my email inbox.", "LLM"],
+["Sarah, I'll forward you the details.", "Non-LLM"],
+["Send a reply to John's message.", "LLM"]
+]
+},
+{
+"ID": 37,
+"Segments": [
+["Find flights to Paris next month.", "LLM"],
+["Emma, let's plan our vacation.", "Non-LLM"],
+["Compare hotel prices.", "LLM"]
+]
+},
+{
+"ID": 38,
+"Segments": [
+["Dad, have you seen my headphones?", "Non-LLM"],
+["What's the battery level on my headphones?", "LLM"],
+["Turn on Bluetooth.", "LLM"]
+]
+},
+{
+"ID": 39,
+"Segments": [
+["Honey, do you need to renew yours too?", "Non-LLM"],
+["Set a reminder to renew my driver's license.", "LLM"],
+["Find the nearest DMV.", "LLM"]
+]
+},
+{
+"ID": 40,
+"Segments": [
+["What's the score of the game?", "LLM"],
+["Mike, are you watching the game tonight?", "Non-LLM"],
+["Show me the live stats.", "LLM"]
+]
+},
+{
+"ID": 41,
+"Segments": [
+["Lisa, it's your birthday tomorrow.", "Non-LLM"],
+["Find recipes for chocolate cake.", "LLM"],
+["Add cocoa powder to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 42,
+"Segments": [
+["Play lullabies.", "LLM"],
+["Baby, it's time for bed.", "Non-LLM"],
+["Set a sleep timer for 30 minutes.", "LLM"]
+]
+},
+{
+"ID": 43,
+"Segments": [
+["Emma, want to join me for a walk?", "Non-LLM"],
+["What's my step count for today?", "LLM"],
+["Set a goal of 10,000 steps.", "LLM"]
+]
+},
+{
+"ID": 44,
+"Segments": [
+["Excuse me, can you help me find this place?", "Non-LLM"],
+["Translate 'Where is the restroom?' to French.", "LLM"],
+["Download offline language packs.", "LLM"]
+]
+},
+{
+"ID": 45,
+"Segments": [
+["Buddy, time for your walk!", "Non-LLM"],
+["Order more dog food online.", "LLM"],
+["Schedule a vet appointment.", "LLM"]
+]
+},
+{
+"ID": 46,
+"Segments": [
+["Mike, we should exchange currency before our trip.", "Non-LLM"],
+["What's the exchange rate for euros to dollars?", "LLM"],
+["Convert 500 euros.", "LLM"]
+]
+},
+{
+"ID": 47,
+"Segments": [
+["Honey, let's declutter the house this weekend. It's overdue.", "Non-LLM"],
+["Find cleaning services near me.", "LLM"],
+["Book an appointment for Friday.", "LLM"]
+]
+},
+{
+"ID": 48,
+"Segments": [
+["Play some jazz music.", "LLM"],
+["Dad, this is your favorite song.", "Non-LLM"],
+["Adjust the volume to 60%.", "LLM"]
+]
+},
+{
+"ID": 49,
+"Segments": [
+["Sarah, I just heard from Emma.", "Non-LLM"],
+["Check my messages.", "LLM"],
+["Send a reply to Emma.", "LLM"]
+]
+},
+{
+"ID": 50,
+"Segments": [
+["Find nearby bookstores.", "LLM"],
+["Alex, do you want to go book shopping later?", "Non-LLM"],
+["Show me the bestsellers list.", "LLM"]
+]
+},
+{
+"ID": 51,
+"Segments": [
+["Order some Chinese food for delivery.", "LLM"],
+["Hey Alex, do you want to join me for dinner?", "Non-LLM"],
+["Track my order.", "LLM"]
+]
+},
+{
+"ID": 52,
+"Segments": [
+["What's the traffic like to the office?", "LLM"],
+["Sarah, I'll be a bit late today.", "Non-LLM"],
+["Suggest an alternative route.", "LLM"]
+]
+},
+{
+"ID": 53,
+"Segments": [
+["Find the nearest gas station.", "LLM"],
+["Honey, we're low on gas.", "Non-LLM"],
+["Navigate to the closest one.", "LLM"]
+]
+},
+{
+"ID": 54,
+"Segments": [
+["Set a reminder to buy tickets tomorrow.", "LLM"],
+["Mike, the concert is selling out fast.", "Non-LLM"],
+["Show me available seats.", "LLM"]
+]
+},
+{
+"ID": 55,
+"Segments": [
+["Play the latest news podcast.", "LLM"],
+["Dad, this is the episode I was talking about.", "Non-LLM"],
+["Adjust the playback speed to 1.5x.", "LLM"]
+]
+},
+{
+"ID": 56,
+"Segments": [
+["What's the weather forecast for this weekend?", "LLM"],
+["Emma, looks like it'll be sunny.", "Non-LLM"],
+["Suggest outdoor activities.", "LLM"]
+]
+},
+{
+"ID": 57,
+"Segments": [
+["Translate 'Happy Birthday' to Italian.", "LLM"],
+["Sarah, I'm practicing for your party.", "Non-LLM"],
+["How do you say 'Cheers' in Italian?", "LLM"]
+]
+},
+{
+"ID": 58,
+"Segments": [
+["Find vegan restaurants nearby.", "LLM"],
+["Alex, want to try a new place tonight?", "Non-LLM"],
+["Make a reservation for two at 7 PM.", "LLM"]
+]
+},
+{
+"ID": 59,
+"Segments": [
+["Set an alarm for 5 AM.", "LLM"],
+["Mike, don't forget our morning run.", "Non-LLM"],
+["Play energizing music at wake-up time.", "LLM"]
+]
+},
+{
+"ID": 60,
+"Segments": [
+["What's my schedule for today?", "LLM"],
+["Honey, we have a meeting at noon.", "Non-LLM"],
+["Remind me 30 minutes before the meeting.", "LLM"]
+]
+},
+{
+"ID": 61,
+"Segments": [
+["Calculate the tip for a $120 bill.", "LLM"],
+["Waiter, thank you for your service.", "Non-LLM"],
+["Split the bill three ways.", "LLM"]
+]
+},
+{
+"ID": 62,
+"Segments": [
+["Order an Uber to the airport.", "LLM"],
+["Mom, I'll be home late tonight.", "Non-LLM"],
+["Check flight departure times.", "LLM"]
+]
+},
+{
+"ID": 63,
+"Segments": [
+["Play some meditation music.", "LLM"],
+["Emma, let's relax for a bit.", "Non-LLM"],
+["Set a timer for 15 minutes.", "LLM"]
+]
+},
+{
+"ID": 64,
+"Segments": [
+["Find a recipe for apple pie.", "LLM"],
+["Dad, want to bake together?", "Non-LLM"],
+["Add apples and cinnamon to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 65,
+"Segments": [
+["What's the exchange rate for USD to GBP?", "LLM"],
+["Mike, our trip to London is coming up.", "Non-LLM"],
+["Convert $500 to pounds.", "LLM"]
+]
+},
+{
+"ID": 66,
+"Segments": [
+["Set a reminder to call Grandma on Sunday.", "LLM"],
+["Sarah, let's visit her soon.", "Non-LLM"],
+["Find florists near her house.", "LLM"]
+]
+},
+{
+"ID": 67,
+"Segments": [
+["Play the top hits from the 80s.", "LLM"],
+["Alex, this was our favorite song!", "Non-LLM"],
+["Increase the volume to 70%.", "LLM"]
+]
+},
+{
+"ID": 68,
+"Segments": [
+["Find documentaries about space exploration.", "LLM"],
+["Emma, this looks interesting.", "Non-LLM"],
+["Add it to my watchlist.", "LLM"]
+]
+},
+{
+"ID": 69,
+"Segments": [
+["What's the time difference between here and Tokyo?", "LLM"],
+["Mike, let's schedule a call with our team there.", "Non-LLM"],
+["Set an event for 9 AM their time.", "LLM"]
+]
+},
+{
+"ID": 70,
+"Segments": [
+["Order a bouquet of roses.", "LLM"],
+["Honey, happy anniversary!", "Non-LLM"],
+["Include a personalized note.", "LLM"]
+]
+},
+{
+"ID": 71,
+"Segments": [
+["Find local volunteer opportunities.", "LLM"],
+["Sarah, want to join me this weekend?", "Non-LLM"],
+["Sign me up for Saturday morning.", "LLM"]
+]
+},
+{
+"ID": 72,
+"Segments": [
+["What's the best route to the stadium?", "LLM"],
+["Dad, the game starts at 7 PM.", "Non-LLM"],
+["Buy parking passes online.", "LLM"]
+]
+},
+{
+"ID": 73,
+"Segments": [
+["Set a timer for boiling pasta.", "LLM"],
+["Alex, dinner will be ready soon.", "Non-LLM"],
+["Play some Italian music.", "LLM"]
+]
+},
+{
+"ID": 74,
+"Segments": [
+["Check the status of my package delivery.", "LLM"],
+["Mike, the gift should arrive today.", "Non-LLM"],
+["Notify me when it's delivered.", "LLM"]
+]
+},
+{
+"ID": 75,
+"Segments": [
+["Translate 'Good night' to Japanese.", "LLM"],
+["Emma, I'm learning new phrases.", "Non-LLM"],
+["Add Japanese lessons to my calendar.", "LLM"]
+]
+},
+{
+"ID": 76,
+"Segments": [
+["Find upcoming art exhibitions.", "LLM"],
+["Sarah, let's go this weekend.", "Non-LLM"],
+["Buy two tickets for Saturday.", "LLM"]
+]
+},
+{
+"ID": 77,
+"Segments": [
+["Play relaxing ocean sounds.", "LLM"],
+["Honey, let's unwind.", "Non-LLM"],
+["Dim the lights to 30%.", "LLM"]
+]
+},
+{
+"ID": 78,
+"Segments": [
+["What's my remaining data usage?", "LLM"],
+["Dad, we might need to upgrade our plan.", "Non-LLM"],
+["Check available plans.", "LLM"]
+]
+},
+{
+"ID": 79,
+"Segments": [
+["Schedule a car service appointment.", "LLM"],
+["Mike, the car needs maintenance.", "Non-LLM"],
+["Find the nearest service center.", "LLM"]
+]
+},
+{
+"ID": 80,
+"Segments": [
+["Order groceries online.", "LLM"],
+["Alex, do we need anything else?", "Non-LLM"],
+["Add bread and cheese to the cart.", "LLM"]
+]
+},
+{
+"ID": 81,
+"Segments": [
+["Set a sleep alarm for 10 PM.", "LLM"],
+["Emma, we should start sleeping earlier.", "Non-LLM"],
+["Play soothing bedtime stories.", "LLM"]
+]
+},
+{
+"ID": 82,
+"Segments": [
+["Find tutorials on watercolor painting.", "LLM"],
+["Sarah, I want to pick up a new hobby.", "Non-LLM"],
+["Add art supplies to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 83,
+"Segments": [
+["What's the battery level of my laptop?", "LLM"],
+["Honey, can you bring the charger?", "Non-LLM"],
+["Switch to power-saving mode.", "LLM"]
+]
+},
+{
+"ID": 84,
+"Segments": [
+["Find pet-friendly hotels in the area.", "LLM"],
+["Mike, let's take the dog on our trip.", "Non-LLM"],
+["Book a room for this weekend.", "LLM"]
+]
+},
+{
+"ID": 85,
+"Segments": [
+["Play workout music.", "LLM"],
+["Alex, time for our exercise routine.", "Non-LLM"],
+["Start a 30-minute timer.", "LLM"]
+]
+},
+{
+"ID": 86,
+"Segments": [
+["Check for flight delays.", "LLM"],
+["Emma, our flight might be postponed.", "Non-LLM"],
+["Get notifications for updates.", "LLM"]
+]
+},
+{
+"ID": 87,
+"Segments": [
+["What's the forecast for snow this week?", "LLM"],
+["Dad, we might need to shovel the driveway.", "Non-LLM"],
+["Order a new snow shovel online.", "LLM"]
+]
+},
+{
+"ID": 88,
+"Segments": [
+["Find chess tutorials for beginners.", "LLM"],
+["Sarah, let's learn together.", "Non-LLM"],
+["Schedule practice sessions.", "LLM"]
+]
+},
+{
+"ID": 89,
+"Segments": [
+["Set a reminder to renew my passport.", "LLM"],
+["Mike, yours is expiring soon too.", "Non-LLM"],
+["Find passport renewal locations.", "LLM"]
+]
+},
+{
+"ID": 90,
+"Segments": [
+["Order tickets for the theater show.", "LLM"],
+["Honey, I got us seats for Friday.", "Non-LLM"],
+["Add it to my calendar.", "LLM"]
+]
+},
+{
+"ID": 91,
+"Segments": [
+["What's the best route for a road trip to Miami?", "LLM"],
+["Alex, let's plan our vacation.", "Non-LLM"],
+["Find attractions along the way.", "LLM"]
+]
+},
+{
+"ID": 92,
+"Segments": [
+["Translate 'Where can I find a taxi?' to Spanish.", "LLM"],
+["Emma, practicing for our trip?", "Non-LLM"],
+["Download Spanish language pack.", "LLM"]
+]
+},
+{
+"ID": 93,
+"Segments": [
+["Find local book clubs.", "LLM"],
+["Sarah, interested in joining one?", "Non-LLM"],
+["Sign me up for the next meeting.", "LLM"]
+]
+},
+{
+"ID": 94,
+"Segments": [
+["Set a reminder to change the air filters.", "LLM"],
+["Dad, it's been a while since we last did.", "Non-LLM"],
+["Order replacement filters online.", "LLM"]
+]
+},
+{
+"ID": 95,
+"Segments": [
+["What's the recipe for banana bread?", "LLM"],
+["Honey, we have ripe bananas to use.", "Non-LLM"],
+["Add walnuts to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 96,
+"Segments": [
+["Play calming sounds of rain.", "LLM"],
+["Alex, helps me concentrate.", "Non-LLM"],
+["Set volume to 40%.", "LLM"]
+]
+},
+{
+"ID": 97,
+"Segments": [
+["Check the stock price of Tesla.", "LLM"],
+["Mike, have you seen today's market?", "Non-LLM"],
+["Show me a 5-day trend.", "LLM"]
+]
+},
+{
+"ID": 98,
+"Segments": [
+["Find hiking trails nearby.", "LLM"],
+["Emma, up for an adventure?", "Non-LLM"],
+["Check the weather for the trails.", "LLM"]
+]
+},
+{
+"ID": 99,
+"Segments": [
+["Order a birthday gift for Sarah.", "LLM"],
+["Honey, what do you think she'd like?", "Non-LLM"],
+["Browse popular gift ideas.", "LLM"]
+]
+},
+{
+"ID": 100,
+"Segments": [
+["Set a countdown timer for the new year.", "LLM"],
+["Alex, can't wait to celebrate!", "Non-LLM"],
+["Play festive music.", "LLM"]
+]
+},
+{
+"ID": 101,
+"Segments": [
+["What's the time in Tokyo?", "LLM"],
+["Mike, are you awake?", "Non-LLM"],
+["Set an alarm for 7 AM.", "LLM"]
+]
+},
+{
+"ID": 102,
+"Segments": [
+["Dad, did you see my backpack?", "Non-LLM"],
+["Find my backpack.", "LLM"]
+]
+},
+{
+"ID": 103,
+"Segments": [
+["Play my favorite playlist.", "LLM"],
+["Sarah, let's dance!", "Non-LLM"],
+["Increase the volume to 70%.", "LLM"]
+]
+},
+{
+"ID": 104,
+"Segments": [
+["Emma, could you close the window?", "Non-LLM"],
+["What's the weather like tomorrow?", "LLM"]
+]
+},
+{
+"ID": 105,
+"Segments": [
+["Order a pizza for delivery.", "LLM"],
+["Hey Alex, pizza will be here soon.", "Non-LLM"]
+]
+},
+{
+"ID": 106,
+"Segments": [
+["Find the nearest pharmacy.", "LLM"],
+["Mom, I need to pick up my prescription.", "Non-LLM"],
+["Set a reminder to take my medicine at 8 PM.", "LLM"]
+]
+},
+{
+"ID": 107,
+"Segments": [
+["Mike, did you email the documents?", "Non-LLM"],
+["Send an email to the client with the attachments.", "LLM"]
+]
+},
+{
+"ID": 108,
+"Segments": [
+["Turn off the kitchen lights.", "LLM"],
+["Honey, I'm going to bed.", "Non-LLM"],
+["Set the thermostat to night mode.", "LLM"]
+]
+},
+{
+"ID": 109,
+"Segments": [
+["What's my agenda for today?", "LLM"],
+["Sarah, we have a meeting at 10 AM.", "Non-LLM"]
+]
+},
+{
+"ID": 110,
+"Segments": [
+["Emma, can you help me with this?", "Non-LLM"],
+["Search for tutorials on Excel formulas.", "LLM"]
+]
+},
+{
+"ID": 111,
+"Segments": [
+["Set a timer for 15 minutes.", "LLM"],
+["Mike, the cookies will be ready soon.", "Non-LLM"]
+]
+},
+{
+"ID": 112,
+"Segments": [
+["Play some soft jazz.", "LLM"],
+["Alex, this is our favorite song.", "Non-LLM"],
+["Dim the living room lights.", "LLM"]
+]
+},
+{
+"ID": 113,
+"Segments": [
+["Remind me to buy tickets tomorrow.", "LLM"],
+["Hey, don't forget about the concert.", "Non-LLM"],
+["Check available seats.", "LLM"]
+]
+},
+{
+"ID": 114,
+"Segments": [
+["What's the latest news on the stock market?", "LLM"],
+["Dad, have you checked your investments?", "Non-LLM"]
+]
+},
+{
+"ID": 115,
+"Segments": [
+["Order a bouquet of flowers.", "LLM"],
+["Sarah, happy anniversary!", "Non-LLM"],
+["Include a note saying 'Love you always.'", "LLM"]
+]
+},
+{
+"ID": 116,
+"Segments": [
+["Find yoga tutorials for beginners.", "LLM"],
+["Emma, let's start practicing at home.", "Non-LLM"]
+]
+},
+{
+"ID": 117,
+"Segments": [
+["Set an appointment with Dr. Smith.", "LLM"],
+["Mom, I'll be visiting the doctor next week.", "Non-LLM"],
+["Add it to my calendar.", "LLM"]
+]
+},
+{
+"ID": 118,
+"Segments": [
+["Play rain sounds.", "LLM"],
+["I need to relax after today.", "Non-LLM"],
+["Set a sleep timer for one hour.", "LLM"]
+]
+},
+{
+"ID": 119,
+"Segments": [
+["Alex, did you finish the assignment?", "Non-LLM"],
+["Search for articles on renewable energy.", "LLM"],
+["Add them to my reading list.", "LLM"]
+]
+},
+{
+"ID": 120,
+"Segments": [
+["What's the best way to get to the museum?", "LLM"],
+["Mike, are you ready to go?", "Non-LLM"],
+["Book tickets online.", "LLM"]
+]
+},
+{
+"ID": 121,
+"Segments": [
+["Remind me to water the garden.", "LLM"],
+["Dad, the plants are looking great.", "Non-LLM"]
+]
+},
+{
+"ID": 122,
+"Segments": [
+["What's the forecast for snow this week?", "LLM"],
+["Emma, we might get to build a snowman!", "Non-LLM"],
+["Set a reminder to buy winter supplies.", "LLM"]
+]
+},
+{
+"ID": 123,
+"Segments": [
+["Order an Uber to the airport.", "LLM"],
+["Honey, our flight leaves in three hours.", "Non-LLM"],
+["Check in for our flight.", "LLM"]
+]
+},
+{
+"ID": 124,
+"Segments": [
+["Play study music.", "LLM"],
+["Alex, time to hit the books.", "Non-LLM"]
+]
+},
+{
+"ID": 125,
+"Segments": [
+["Find a good recipe for lasagna.", "LLM"],
+["Sarah, want to cook together tonight?", "Non-LLM"],
+["Add ingredients to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 126,
+"Segments": [
+["What's the status of my Amazon order?", "LLM"],
+["Mike, the package should arrive today.", "Non-LLM"]
+]
+},
+{
+"ID": 127,
+"Segments": [
+["Turn on the outdoor lights.", "LLM"],
+["Dad, I'm home.", "Non-LLM"]
+]
+},
+{
+"ID": 128,
+"Segments": [
+["Set a reminder to submit the report by Friday.", "LLM"],
+["Emma, can you proofread it for me?", "Non-LLM"]
+]
+},
+{
+"ID": 129,
+"Segments": [
+["Play lullabies.", "LLM"],
+["Baby, it's bedtime.", "Non-LLM"],
+["Set a sleep timer for 20 minutes.", "LLM"]
+]
+},
+{
+"ID": 130,
+"Segments": [
+["What's the definition of 'quintessential'?", "LLM"],
+["Sarah, that's a word for your vocabulary list.", "Non-LLM"]
+]
+},
+{
+"ID": 131,
+"Segments": [
+["Order Chinese food for dinner.", "LLM"],
+["Mike, do you want the usual?", "Non-LLM"],
+["Track my order.", "LLM"]
+]
+},
+{
+"ID": 132,
+"Segments": [
+["Set a reminder to pay the utility bills.", "LLM"],
+["Honey, did you already pay them?", "Non-LLM"],
+["Check my account balance.", "LLM"]
+]
+},
+{
+"ID": 133,
+"Segments": [
+["Find my phone.", "LLM"],
+["Alex, can you call my number?", "Non-LLM"]
+]
+},
+{
+"ID": 134,
+"Segments": [
+["What's the traffic like on the highway?", "LLM"],
+["Emma, we might need to leave early.", "Non-LLM"],
+["Suggest alternative routes.", "LLM"]
+]
+},
+{
+"ID": 135,
+"Segments": [
+["Turn off all smart devices.", "LLM"],
+["Goodnight, house.", "Non-LLM"]
+]
+},
+{
+"ID": 136,
+"Segments": [
+["Remind me to send birthday wishes to Sarah.", "LLM"],
+["Mike, don't forget her gift.", "Non-LLM"]
+]
+},
+{
+"ID": 137,
+"Segments": [
+["Play the latest episode of my podcast.", "LLM"],
+["Alex, this one's really good.", "Non-LLM"],
+["Skip to minute 10.", "LLM"]
+]
+},
+{
+"ID": 138,
+"Segments": [
+["Set a timer for brewing tea.", "LLM"],
+["Honey, tea will be ready in 5 minutes.", "Non-LLM"]
+]
+},
+{
+"ID": 139,
+"Segments": [
+["Find hotels in New York.", "LLM"],
+["Emma, let's plan a trip.", "Non-LLM"],
+["Compare prices.", "LLM"]
+]
+},
+{
+"ID": 140,
+"Segments": [
+["What's the best way to remove wine stains?", "LLM"],
+["Oops, I spilled some.", "Non-LLM"]
+]
+},
+{
+"ID": 141,
+"Segments": [
+["Remind me to buy tickets for the game.", "LLM"],
+["Dad, do you want to come?", "Non-LLM"]
+]
+},
+{
+"ID": 142,
+"Segments": [
+["Order more coffee pods.", "LLM"],
+["Mike, we're running low.", "Non-LLM"],
+["Add sugar to the shopping list.", "LLM"]
+]
+},
+{
+"ID": 143,
+"Segments": [
+["Set an appointment with the dentist.", "LLM"],
+["Honey, I have a toothache.", "Non-LLM"],
+["Find dentists near me.", "LLM"]
+]
+},
+{
+"ID": 144,
+"Segments": [
+["Play workout videos.", "LLM"],
+["Alex, time to exercise.", "Non-LLM"]
+]
+},
+{
+"ID": 145,
+"Segments": [
+["What's the recipe for pancakes?", "LLM"],
+["Emma, let's make breakfast.", "Non-LLM"],
+["Add blueberries to my shopping list.", "LLM"]
+]
+},
+{
+"ID": 146,
+"Segments": [
+["Turn on the garage lights.", "LLM"],
+["Dad, I'm heading out.", "Non-LLM"],
+["Close the garage door after I leave.", "LLM"]
+]
+},
+{
+"ID": 147,
+"Segments": [
+["Check my messages.", "LLM"],
+["Sarah, did you send me something?", "Non-LLM"]
+]
+},
+{
+"ID": 148,
+"Segments": [
+["Find hiking trails nearby.", "LLM"],
+["Mike, up for a hike?", "Non-LLM"],
+["Check the weather for this weekend.", "LLM"]
+]
+},
+{
+"ID": 149,
+"Segments": [
+["Order tickets for the play.", "LLM"],
+["Honey, let's have a date night.", "Non-LLM"]
+]
+},
+{
+"ID": 150,
+"Segments": [
+["What's the exchange rate for euros to dollars?", "LLM"],
+["Emma, planning our Europe trip?", "Non-LLM"],
+["Convert 1000 euros.", "LLM"]
+]
+},
+{
+"ID": 151,
+"Segments": [
+["Turn on the evening news.", "LLM"],
+["Alex, did you hear about the new project?", "Non-LLM"],
+["Summarize today's top headlines.", "LLM"]
+]
+},
+{
+"ID": 152,
+"Segments": [
+["Set a reminder for the meeting at 2 PM.", "LLM"],
+["Don't forget the presentation materials.", "Non-LLM"]
+]
+},
+{
+"ID": 153,
+"Segments": [
+["Play some relaxing music.", "LLM"],
+["Emma, would you like some tea?", "Non-LLM"],
+["Set a timer for 10 minutes.", "LLM"]
+]
+},
+{
+"ID": 154,
+"Segments": [
+["Mike, can you help me with this report?", "Non-LLM"],
+["Find references on market trends.", "LLM"],
+["Add them to my research folder.", "LLM"]
+]
+},
+{
+"ID": 155,
+"Segments": [
+["What's the weather forecast for tomorrow?", "LLM"],
+["Sarah, looks like it might rain.", "Non-LLM"],
+["Remind me to take an umbrella.", "LLM"]
+]
+},
+{
+"ID": 156,
+"Segments": [
+["Order a taxi to the airport.", "LLM"],
+["Honey, are you all packed?", "Non-LLM"],
+["Check flight status for delays.", "LLM"]
+]
+},
+{
+"ID": 157,
+"Segments": [
+["Set the thermostat to 72 degrees.", "LLM"],
+["Dad, it's getting chilly in here.", "Non-LLM"]
+]
+},
+{
+"ID": 158,
+"Segments": [
+["Remind me to call John in an hour.", "LLM"],
+["Alex, he wanted to discuss the project.", "Non-LLM"]
+]
+},
+{
+"ID": 159,
+"Segments": [
+["Find recipes for gluten-free desserts.", "LLM"],
+["Emma, let's try baking tonight.", "Non-LLM"],
+["Add almond flour to the shopping list.", "LLM"]
+]
+},
+{
+"ID": 160,
+"Segments": [
+["What's the score of the soccer match?", "LLM"],
+["Mike, our team is winning!", "Non-LLM"],
+["Show me live updates.", "LLM"]
+]
+},
+{
+"ID": 161,
+"Segments": [
+["Play 'Happy Birthday' playlist.", "LLM"],
+["Surprise! Happy Birthday, Sarah!", "Non-LLM"]
+]
+},
+{
+"ID": 162,
+"Segments": [
+["Schedule an appointment with Dr. Lee.", "LLM"],
+["Mom, I'll be at the clinic tomorrow.", "Non-LLM"],
+["Set a reminder for 9 AM.", "LLM"]
+]
+},
+{
+"ID": 163,
+"Segments": [
+["Turn off the living room lights.", "LLM"],
+["Time for bed, everyone.", "Non-LLM"]
+]
+},
+{
+"ID": 164,
+"Segments": [
+["Translate 'Good evening' to Italian.", "LLM"],
+["Alex, let's practice our Italian.", "Non-LLM"],
+["How do you say 'See you tomorrow'?", "LLM"]
+]
+},
+{
+"ID": 165,
+"Segments": [
+["Order more printer ink.", "LLM"],
+["Mike, we're running low.", "Non-LLM"],
+["Check for discounts.", "LLM"]
+]
+},
+{
+"ID": 166,
+"Segments": [
+["Play some upbeat music.", "LLM"],
+["Emma, let's get ready for the party.", "Non-LLM"],
+["Set a timer for 30 minutes.", "LLM"]
+]
+},
+{
+"ID": 167,
+"Segments": [
+["What's my schedule for next week?", "LLM"],
+["Sarah, let's plan a meeting.", "Non-LLM"],
+["Block off Tuesday afternoon.", "LLM"]
+]
+},
+{
+"ID": 168,
+"Segments": [
+["Remind me to water the garden.", "LLM"],
+["Dad, the flowers are blooming.", "Non-LLM"],
+["Check the weather for rain.", "LLM"]
+]
+},
+{
+"ID": 169,
+"Segments": [
+["Find nearby coffee shops.", "LLM"],
+["Alex, want to grab a coffee?", "Non-LLM"],
+["Navigate to the closest one.", "LLM"]
+]
+},
+{
+"ID": 170,
+"Segments": [
+["Set an alarm for 6 AM.", "LLM"],
+["Honey, we have an early flight.", "Non-LLM"]
+]
+},
+{
+"ID": 171,
+"Segments": [
+["Play the latest news briefing.", "LLM"],
+["Emma, have you heard the headlines?", "Non-LLM"]
+]
+},
+{
+"ID": 172,
+"Segments": [
+["What's the definition of 'ubiquitous'?", "LLM"],
+["Mike, that's a word for our vocab list.", "Non-LLM"],
+["Add it to my notes.", "LLM"]
+]
+},
+{
+"ID": 173,
+"Segments": [
+["Order tickets to the art exhibition.", "LLM"],
+["Sarah, it's opening next weekend.", "Non-LLM"],
+["Add the event to my calendar.", "LLM"]
+]
+},
+{
+"ID": 174,
+"Segments": [
+["Find tutorials on guitar chords.", "LLM"],
+["Dad, I'm learning a new song.", "Non-LLM"],
+["Bookmark the lesson.", "LLM"]
+]
+},
+{
+"ID": 175,
+"Segments": [
+["Set the oven to 350 degrees.", "LLM"],
+["Emma, let's bake cookies.", "Non-LLM"],
+["Start a timer for 15 minutes.", "LLM"]
+]
+},
+{
+"ID": 176,
+"Segments": [
+["What's the traffic like to downtown?", "LLM"],
+["Alex, we might be late.", "Non-LLM"],
+["Suggest alternative routes.", "LLM"]
+]
+},
+{
+"ID": 177,
+"Segments": [
+["Play rain sounds.", "LLM"],
+["Time to relax.", "Non-LLM"],
+["Set sleep timer for 1 hour.", "LLM"]
+]
+},
+{
+"ID": 178,
+"Segments": [
+["Translate 'Thank you very much' to Japanese.", "LLM"],
+["Mike, practicing for our trip?", "Non-LLM"]
+]
+},
+{
+"ID": 179,
+"Segments": [
+["Order groceries online.", "LLM"],
+["Honey, do we need anything else?", "Non-LLM"],
+["Add bananas and cereal to the cart.", "LLM"]
+]
+},
+{
+"ID": 180,
+"Segments": [
+["Find documentaries about marine life.", "LLM"],
+["Emma, let's watch something educational.", "Non-LLM"],
+["Play the top-rated one.", "LLM"]
+]
+},
+{
+"ID": 181,
+"Segments": [
+["Set a reminder to renew the car insurance.", "LLM"],
+["Dad, it's due next week.", "Non-LLM"],
+["Check for better rates.", "LLM"]
+]
+},
+{
+"ID": 182,
+"Segments": [
+["What's my current heart rate?", "LLM"],
+["Mike, let's cool down after the run.", "Non-LLM"]
+]
+},
+{
+"ID": 183,
+"Segments": [
+["Turn on the sprinklers at 6 PM.", "LLM"],
+["Honey, the lawn needs watering.", "Non-LLM"]
+]
+},
+{
+"ID": 184,
+"Segments": [
+["Find local volunteer opportunities.", "LLM"],
+["Sarah, interested in joining me?", "Non-LLM"]
+]
+},
+{
+"ID": 185,
+"Segments": [
+["Order a bouquet for Mom.", "LLM"],
+["Emma, it's her birthday tomorrow.", "Non-LLM"],
+["Include a 'Happy Birthday' note.", "LLM"]
+]
+},
+{
+"ID": 186,
+"Segments": [
+["What's the capital of Brazil?", "LLM"],
+["Alex, any idea?", "Non-LLM"]
+]
+},
+{
+"ID": 187,
+"Segments": [
+["Set the lights to reading mode.", "LLM"],
+["Time to dive into this book.", "Non-LLM"]
+]
+},
+{
+"ID": 188,
+"Segments": [
+["Play white noise.", "LLM"],
+["Mike, helps me focus.", "Non-LLM"],
+["Adjust volume to 50%.", "LLM"]
+]
+},
+{
+"ID": 189,
+"Segments": [
+["Schedule a car maintenance appointment.", "LLM"],
+["Honey, the service light is on.", "Non-LLM"]
+]
+},
+{
+"ID": 190,
+"Segments": [
+["Find flights to Tokyo next month.", "LLM"],
+["Emma, let's finalize our dates.", "Non-LLM"],
+["Compare airline prices.", "LLM"]
+]
+},
+{
+"ID": 191,
+"Segments": [
+["Order pizza for delivery.", "LLM"],
+["Alex, what toppings do you want?", "Non-LLM"]
+]
+},
+{
+"ID": 192,
+"Segments": [
+["What's the latest tech news?", "LLM"],
+["Mike, have you seen the new phone release?", "Non-LLM"],
+["Summarize the main features.", "LLM"]
+]
+},
+{
+"ID": 193,
+"Segments": [
+["Set a sleep alarm for 11 PM.", "LLM"],
+["Time to start winding down.", "Non-LLM"]
+]
+},
+{
+"ID": 194,
+"Segments": [
+["Find recipes using chicken and rice.", "LLM"],
+["Sarah, any dinner ideas?", "Non-LLM"],
+["Add missing ingredients to the shopping list.", "LLM"]
+]
+},
+{
+"ID": 195,
+"Segments": [
+["Play the audiobook '1984'.", "LLM"],
+["Emma, I've been meaning to read this.", "Non-LLM"],
+["Resume from where I left off.", "LLM"]
+]
+},
+{
+"ID": 196,
+"Segments": [
+["Check stock prices for Amazon.", "LLM"],
+["Dad, the market is up today.", "Non-LLM"]
+]
+},
+{
+"ID": 197,
+"Segments": [
+["Set a reminder to call the plumber.", "LLM"],
+["Honey, the sink is still leaking.", "Non-LLM"],
+["Find contact information.", "LLM"]
+]
+},
+{
+"ID": 198,
+"Segments": [
+["Turn on the patio lights.", "LLM"],
+["Mike, let's sit outside.", "Non-LLM"]
+]
+},
+{
+"ID": 199,
+"Segments": [
+["What's the battery level of my laptop?", "LLM"],
+["Alex, can you bring the charger?", "Non-LLM"]
+]
+},
+{
+"ID": 200,
+"Segments": [
+["Order tickets for the museum exhibit.", "LLM"],
+["Emma, it's only here this month.", "Non-LLM"],
+["Add it to our calendar.", "LLM"]
+]
+},
+{
+"ID": 251,
+"Segments": [
+["Mom, I'll be home late tonight.", "Non-LLM"],
+["Don't wait up for me.", "Non-LLM"]
+]
+},
+{
+"ID": 252,
+"Segments": [
+["Hey Mike, are you free this weekend?", "Non-LLM"],
+["We should catch up.", "Non-LLM"]
+]
+},
+{
+"ID": 253,
+"Segments": [
+["Sarah, did you finish the report?", "Non-LLM"],
+["The deadline is tomorrow.", "Non-LLM"]
+]
+},
+{
+"ID": 254,
+"Segments": [
+["Dad, can you help me with my homework?", "Non-LLM"],
+["I'm stuck on this math problem.", "Non-LLM"]
+]
+},
+{
+"ID": 255,
+"Segments": [
+["Emma, did you hear about the new cafe?", "Non-LLM"],
+["We should try it out.", "Non-LLM"]
+]
+},
+{
+"ID": 256,
+"Segments": [
+["Alex, let's go for a run.", "Non-LLM"],
+["It's a beautiful day outside.", "Non-LLM"]
+]
+},
+{
+"ID": 257,
+"Segments": [
+["Honey, don't forget to pick up the kids.", "Non-LLM"],
+["They have soccer practice at 4 PM.", "Non-LLM"]
+]
+},
+{
+"ID": 258,
+"Segments": [
+["Mike, are you joining the meeting?", "Non-LLM"],
+["We need your input.", "Non-LLM"]
+]
+},
+{
+"ID": 259,
+"Segments": [
+["Sarah, can you send me the files?", "Non-LLM"],
+["I need them by this afternoon.", "Non-LLM"]
+]
+},
+{
+"ID": 260,
+"Segments": [
+["Dad, have you seen my keys?", "Non-LLM"],
+["I can't find them anywhere.", "Non-LLM"]
+]
+},
+{
+"ID": 261,
+"Segments": [
+["Emma, are you coming to the party?", "Non-LLM"],
+["It won't be the same without you.", "Non-LLM"]
+]
+},
+{
+"ID": 262,
+"Segments": [
+["Alex, did you finish the presentation?", "Non-LLM"],
+["The client meeting is tomorrow.", "Non-LLM"]
+]
+},
+{
+"ID": 263,
+"Segments": [
+["Honey, can you pick up some milk?", "Non-LLM"],
+["We're all out.", "Non-LLM"]
+]
+},
+{
+"ID": 264,
+"Segments": [
+["Mike, let's grab lunch together.", "Non-LLM"],
+["It's been a while.", "Non-LLM"]
+]
+},
+{
+"ID": 265,
+"Segments": [
+["Sarah, did you call the plumber?", "Non-LLM"],
+["The sink is still leaking.", "Non-LLM"]
+]
+},
+{
+"ID": 266,
+"Segments": [
+["Dad, can we go to the park?", "Non-LLM"],
+["I want to play on the swings.", "Non-LLM"]
+]
+},
+{
+"ID": 267,
+"Segments": [
+["Emma, did you like the movie?", "Non-LLM"],
+["I thought it was great.", "Non-LLM"]
+]
+},
+{
+"ID": 268,
+"Segments": [
+["Alex, don't forget your jacket.", "Non-LLM"],
+["It's cold outside.", "Non-LLM"]
+]
+},
+{
+"ID": 269,
+"Segments": [
+["Honey, dinner is ready.", "Non-LLM"],
+["Come to the table.", "Non-LLM"]
+]
+},
+{
+"ID": 270,
+"Segments": [
+["Mike, did you walk the dog?", "Non-LLM"],
+["He needs his exercise.", "Non-LLM"]
+]
+},
+{
+"ID": 271,
+"Segments": [
+["Sarah, can you help me with this?", "Non-LLM"],
+["I can't figure it out.", "Non-LLM"]
+]
+},
+{
+"ID": 272,
+"Segments": [
+["Dad, I got an A on my test!", "Non-LLM"],
+["I'm so happy.", "Non-LLM"]
+]
+},
+{
+"ID": 273,
+"Segments": [
+["Emma, let's plan a trip.", "Non-LLM"],
+["We deserve a vacation.", "Non-LLM"]
+]
+},
+{
+"ID": 274,
+"Segments": [
+["Alex, can you send me the photos?", "Non-LLM"],
+["I want to post them.", "Non-LLM"]
+]
+},
+{
+"ID": 275,
+"Segments": [
+["Honey, the car needs gas.", "Non-LLM"],
+["Can you fill it up?", "Non-LLM"]
+]
+},
+{
+"ID": 276,
+"Segments": [
+["Mike, are you available tomorrow?", "Non-LLM"],
+["Let's meet up.", "Non-LLM"]
+]
+},
+{
+"ID": 277,
+"Segments": [
+["Sarah, did you water the plants?", "Non-LLM"],
+["They look a bit dry.", "Non-LLM"]
+]
+},
+{
+"ID": 278,
+"Segments": [
+["Dad, can I borrow the car?", "Non-LLM"],
+["I need to run an errand.", "Non-LLM"]
+]
+},
+{
+"ID": 279,
+"Segments": [
+["Emma, are you free tonight?", "Non-LLM"],
+["Let's watch a movie.", "Non-LLM"]
+]
+},
+{
+"ID": 280,
+"Segments": [
+["Alex, don't forget the meeting at 3 PM.", "Non-LLM"],
+["It's important.", "Non-LLM"]
+]
+},
+{
+"ID": 281,
+"Segments": [
+["Honey, can you help me with dinner?", "Non-LLM"],
+["I could use an extra hand.", "Non-LLM"]
+]
+},
+{
+"ID": 282,
+"Segments": [
+["Mike, did you see the game last night?", "Non-LLM"],
+["It was intense!", "Non-LLM"]
+]
+},
+{
+"ID": 283,
+"Segments": [
+["Sarah, your package arrived.", "Non-LLM"],
+["It's on the table.", "Non-LLM"]
+]
+},
+{
+"ID": 284,
+"Segments": [
+["Dad, can we go fishing this weekend?", "Non-LLM"],
+["I've been looking forward to it.", "Non-LLM"]
+]
+},
+{
+"ID": 285,
+"Segments": [
+["Emma, do you want to join the book club?", "Non-LLM"],
+["We're reading a great novel.", "Non-LLM"]
+]
+},
+{
+"ID": 286,
+"Segments": [
+["Alex, your phone is ringing.", "Non-LLM"],
+["It's an unknown number.", "Non-LLM"]
+]
+},
+{
+"ID": 287,
+"Segments": [
+["Honey, the mail just arrived.", "Non-LLM"],
+["Looks like we got a letter.", "Non-LLM"]
+]
+},
+{
+"ID": 288,
+"Segments": [
+["Mike, can you pass the salt?", "Non-LLM"],
+["Thanks!", "Non-LLM"]
+]
+},
+{
+"ID": 289,
+"Segments": [
+["Sarah, let's go shopping.", "Non-LLM"],
+["I need a new outfit.", "Non-LLM"]
+]
+},
+{
+"ID": 290,
+"Segments": [
+["Dad, I cleaned my room.", "Non-LLM"],
+["Can I go play now?", "Non-LLM"]
+]
+},
+{
+"ID": 291,
+"Segments": [
+["Emma, did you get my message?", "Non-LLM"],
+["Let me know.", "Non-LLM"]
+]
+},
+{
+"ID": 292,
+"Segments": [
+["Alex, we're out of coffee.", "Non-LLM"],
+["Can you grab some on your way home?", "Non-LLM"]
+]
+},
+{
+"ID": 293,
+"Segments": [
+["Honey, let's redecorate the living room.", "Non-LLM"],
+["I have some ideas.", "Non-LLM"]
+]
+},
+{
+"ID": 294,
+"Segments": [
+["Mike, the printer isn't working.", "Non-LLM"],
+["Can you take a look?", "Non-LLM"]
+]
+},
+{
+"ID": 295,
+"Segments": [
+["Sarah, I love your new haircut.", "Non-LLM"],
+["It suits you.", "Non-LLM"]
+]
+},
+{
+"ID": 296,
+"Segments": [
+["Dad, can we build a treehouse?", "Non-LLM"],
+["It would be so cool.", "Non-LLM"]
+]
+},
+{
+"ID": 297,
+"Segments": [
+["Emma, did you bake these cookies?", "Non-LLM"],
+["They're delicious.", "Non-LLM"]
+]
+},
+{
+"ID": 298,
+"Segments": [
+["Alex, the meeting has been postponed.", "Non-LLM"],
+["I'll update you with the new time.", "Non-LLM"]
+]
+},
+{
+"ID": 299,
+"Segments": [
+["Honey, I booked us a table for dinner.", "Non-LLM"],
+["It's at 7 PM.", "Non-LLM"]
+]
+},
+{
+"ID": 300,
+"Segments": [
+["Mike, the presentation was a success.", "Non-LLM"],
+["Great job!", "Non-LLM"]
+]
+},
+{
+"ID": 301,
+"Segments": [
+["Navigate to Central Park.", "LLM"],
+["Excuse me, which way is Fifth Avenue?", "Non-LLM"],
+["Play some walking music.", "LLM"],
+["What's the weather forecast for the next hour?", "LLM"],
+["Thank you for your help!", "Non-LLM"]
+]
+},
+{
+"ID": 302,
+"Segments": [
+["Find the nearest coffee shop.", "LLM"],
+["Hi, can I get a cappuccino to go?", "Non-LLM"],
+["Check my messages.", "LLM"],
+["Set a reminder for my 2 PM meeting.", "LLM"],
+["Thanks, have a great day!", "Non-LLM"]
+]
+},
+{
+"ID": 303,
+"Segments": [
+["What's the quickest route to the train station?", "LLM"],
+["Sir, you dropped your wallet.", "Non-LLM"],
+["Send a text to Mike: 'I'll be there in 20 minutes.'", "LLM"],
+["Play my commute playlist.", "LLM"],
+["Glad I could help!", "Non-LLM"]
+]
+},
+{
+"ID": 304,
+"Segments": [
+["Locate the nearest ATM.", "LLM"],
+["Excuse me, is there a bank around here?", "Non-LLM"],
+["Calculate the tip for a $25 bill.", "LLM"],
+["Add a reminder to pay the utility bills.", "LLM"],
+["Thank you for the directions!", "Non-LLM"]
+]
+},
+{
+"ID": 305,
+"Segments": [
+["Translate 'Thank you' to Spanish.", "LLM"],
+["Hola, ¿dónde está el baño?", "Non-LLM"],
+["Find tourist attractions nearby.", "LLM"],
+["Take a photo.", "LLM"],
+["Gracias!", "Non-LLM"]
+]
+},
+{
+"ID": 306,
+"Segments": [
+["Play upbeat running music.", "LLM"],
+["Hey, mind if I join you for a jog?", "Non-LLM"],
+["Track my distance and pace.", "LLM"],
+["What's my current heart rate?", "LLM"],
+["Sure, the more the merrier!", "Non-LLM"]
+]
+},
+{
+"ID": 307,
+"Segments": [
+["Find open parking spots nearby.", "LLM"],
+["Excuse me, is this spot taken?", "Non-LLM"],
+["Set a reminder for when my meter expires.", "LLM"],
+["Note the parking location.", "LLM"],
+["Thank you, have a nice day!", "Non-LLM"]
+]
+},
+{
+"ID": 308,
+"Segments": [
+["Where is the nearest gas station?", "LLM"],
+["Fill it up with regular, please.", "Non-LLM"],
+["Play the latest news podcast.", "LLM"],
+["Calculate my fuel efficiency.", "LLM"],
+["Thanks, keep the change.", "Non-LLM"]
+]
+},
+{
+"ID": 309,
+"Segments": [
+["Locate the closest pharmacy.", "LLM"],
+["Hi, do you have cold medicine?", "Non-LLM"],
+["Add 'medicine' to my shopping list.", "LLM"],
+["What's my schedule for the rest of the day?", "LLM"],
+["Great, I'll take that one.", "Non-LLM"]
+]
+},
+{
+"ID": 310,
+"Segments": [
+["Find bike rental stations nearby.", "LLM"],
+["Hello, I'd like to rent a bike for an hour.", "Non-LLM"],
+["Start tracking my cycling route.", "LLM"],
+["What's the weather forecast for this afternoon?", "LLM"],
+["Thank you, here's my ID.", "Non-LLM"]
+]
+},
+{
+"ID": 311,
+"Segments": [
+["Navigate to the city museum.", "LLM"],
+["How much is the entrance fee?", "Non-LLM"],
+["Purchase two tickets.", "LLM"],
+["Are there any guided tours available?", "Non-LLM"],
+["Thank you for the information.", "Non-LLM"]
+]
+},
+{
+"ID": 312,
+"Segments": [
+["Play ambient sounds.", "LLM"],
+["Excuse me, is this seat taken?", "Non-LLM"],
+["Set a timer for 30 minutes.", "LLM"],
+["Remind me to call Sarah afterwards.", "LLM"],
+["No? Great, thank you.", "Non-LLM"]
+]
+},
+{
+"ID": 313,
+"Segments": [
+["Find nearby bookstores.", "LLM"],
+["Do you have the latest bestseller?", "Non-LLM"],
+["Add 'buy new book' to my to-do list.", "LLM"],
+["Compare prices online.", "LLM"],
+["I'll take a copy, please.", "Non-LLM"]
+]
+},
+{
+"ID": 314,
+"Segments": [
+["What's the wait time at the nearest restaurant?", "LLM"],
+["Table for one, please.", "Non-LLM"],
+["Read reviews for this place.", "LLM"],
+["Any specials today?", "Non-LLM"],
+["Order my usual meal.", "LLM"]
+]
+},
+{
+"ID": 315,
+"Segments": [
+["Locate a nearby taxi stand.", "LLM"],
+["Taxi! Can you take me to the airport?", "Non-LLM"],
+["Estimate travel time to the airport.", "LLM"],
+["Check my flight status.", "LLM"],
+["Thanks, I appreciate it.", "Non-LLM"]
+]
+},
+{
+"ID": 316,
+"Segments": [
+["Find public restrooms nearby.", "LLM"],
+["Excuse me, is there a restroom I can use?", "Non-LLM"],
+["Navigate to the nearest one.", "LLM"],
+["Thank you so much!", "Non-LLM"],
+["Play relaxing music.", "LLM"]
+]
+},
+{
+"ID": 317,
+"Segments": [
+["What's the bus schedule for Route 5?", "LLM"],
+["Does this bus go to Main Street?", "Non-LLM"],
+["Set a reminder to renew my bus pass.", "LLM"],
+["Purchase a ticket.", "LLM"],
+["Great, thank you.", "Non-LLM"]
+]
+},
+{
+"ID": 318,
+"Segments": [
+["Check the next train to Boston.", "LLM"],
+["One ticket to Boston, please.", "Non-LLM"],
+["Book a seat in the quiet car.", "LLM"],
+["Notify Mike of my arrival time.", "LLM"],
+["Here's my ID.", "Non-LLM"]
+]
+},
+{
+"ID": 319,
+"Segments": [
+["Locate the nearest pet store.", "LLM"],
+["Do you have collars for small dogs?", "Non-LLM"],
+["Add 'dog food' to my shopping list.", "LLM"],
+["Schedule a vet appointment.", "LLM"],
+["I'll take the blue one.", "Non-LLM"]
+]
+},
+{
+"ID": 320,
+"Segments": [
+["Find events happening nearby.", "LLM"],
+["What's going on in the park today?", "Non-LLM"],
+["Add the art festival to my calendar.", "LLM"],
+["Set a reminder for 5 PM.", "LLM"],
+["Thank you for the info!", "Non-LLM"]
+]
+},
+{
+"ID": 321,
+"Segments": [
+["Translate 'How much does this cost?' to French.", "LLM"],
+["Bonjour, combien ça coûte?", "Non-LLM"],
+["Convert euros to dollars.", "LLM"],
+["Purchase the item.", "LLM"],
+["Merci beaucoup!", "Non-LLM"]
+]
+},
+{
+"ID": 322,
+"Segments": [
+["Play my photography playlist.", "LLM"],
+["Excuse me, may I take a picture here?", "Non-LLM"],
+["Open the camera app.", "LLM"],
+["Adjust brightness settings.", "LLM"],
+["Thank you for letting me know.", "Non-LLM"]
+]
+},
+{
+"ID": 323,
+"Segments": [
+["Find the closest library.", "LLM"],
+["Hi, where's the history section?", "Non-LLM"],
+["Search for books on World War II.", "LLM"],
+["Reserve a study room.", "LLM"],
+["Thanks for your assistance.", "Non-LLM"]
+]
+},
+{
+"ID": 324,
+"Segments": [
+["Locate a nearby electronics store.", "LLM"],
+["I'm looking for a phone charger.", "Non-LLM"],
+["Compare prices online.", "LLM"],
+["Is there a warranty included?", "Non-LLM"],
+["Add to cart.", "LLM"]
+]
+},
+{
+"ID": 325,
+"Segments": [
+["What's the time difference between here and Tokyo?", "LLM"],
+["Excuse me, do you know if this calls internationally?", "Non-LLM"],
+["Schedule a call with Emma for 9 PM.", "LLM"],
+["Remind me an hour before.", "LLM"],
+["Appreciate your help!", "Non-LLM"]
+]
+},
+{
+"ID": 326,
+"Segments": [
+["Find gluten-free restaurants nearby.", "LLM"],
+["Do you have a table for two?", "Non-LLM"],
+["Make a reservation for 7 PM.", "LLM"],
+["Check reviews for this place.", "LLM"],
+["Thank you, see you then.", "Non-LLM"]
+]
+},
+{
+"ID": 327,
+"Segments": [
+["What's the exchange rate for pounds to dollars?", "LLM"],
+["Hi, I'd like to exchange currency.", "Non-LLM"],
+["Calculate the amount for $500.", "LLM"],
+["Print the transaction receipt.", "LLM"],
+["Thanks, have a good day!", "Non-LLM"]
+]
+},
+{
+"ID": 328,
+"Segments": [
+["Play the latest audiobook.", "LLM"],
+["Excuse me, do you know where Gate 5 is?", "Non-LLM"],
+["Set an alarm for boarding time.", "LLM"],
+["Check for flight delays.", "LLM"],
+["Appreciate your guidance.", "Non-LLM"]
+]
+},
+{
+"ID": 329,
+"Segments": [
+["Find a nearby clinic.", "LLM"],
+["Call the clinic to schedule an appointment.", "LLM"],
+["Share my location with Mike.", "LLM"]
+]
+},
+{
+"ID": 330,
+"Segments": [
+["What's the movie schedule for tonight?", "LLM"],
+["Two tickets for the 8 PM show, please.", "Non-LLM"],
+["Choose seats in the back row.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Here's my payment.", "Non-LLM"]
+]
+},
+{
+"ID": 331,
+"Segments": [
+["Locate a nearby laundromat.", "LLM"],
+["Do you have change for a dollar?", "Non-LLM"],
+["Set a timer for 45 minutes.", "LLM"],
+["Play some music.", "LLM"],
+["Thank you very much.", "Non-LLM"]
+]
+},
+{
+"ID": 332,
+"Segments": [
+["Navigate to the nearest hospital.", "LLM"],
+["I need directions to the emergency room.", "Non-LLM"],
+["Alert my emergency contact.", "LLM"],
+["Share my current location.", "LLM"],
+["Thank you for your help.", "Non-LLM"]
+]
+},
+{
+"ID": 333,
+"Segments": [
+["Find a pet-friendly park nearby.", "LLM"],
+["Hi, is this area off-leash?", "Non-LLM"],
+["Record a video.", "LLM"],
+["Post to social media.", "LLM"],
+["Thanks for letting me know.", "Non-LLM"]
+]
+},
+{
+"ID": 334,
+"Segments": [
+["What's the current temperature?", "LLM"],
+["Excuse me, do you know if it's going to rain?", "Non-LLM"],
+["Set a reminder to buy an umbrella.", "LLM"],
+["Check for weather alerts.", "LLM"],
+["Thank you, stay dry!", "Non-LLM"]
+]
+},
+{
+"ID": 335,
+"Segments": [
+["Locate the nearest post office.", "LLM"],
+["I need to send this package internationally.", "Non-LLM"],
+["Calculate shipping costs.", "LLM"],
+["Print the shipping label.", "LLM"],
+["Thank you for your help.", "Non-LLM"]
+]
+},
+{
+"ID": 336,
+"Segments": [
+["Find a quiet place to work nearby.", "LLM"],
+["Is this café open?", "Non-LLM"],
+["Connect to available Wi-Fi networks.", "LLM"],
+["Check my email.", "LLM"],
+["Great, I'll grab a seat.", "Non-LLM"]
+]
+},
+{
+"ID": 337,
+"Segments": [
+["Navigate to the art gallery.", "LLM"],
+["How much is the admission fee?", "Non-LLM"],
+["Read about current exhibitions.", "LLM"],
+["Purchase a ticket.", "LLM"],
+["Thank you, I'm excited to see the artwork.", "Non-LLM"]
+]
+},
+{
+"ID": 338,
+"Segments": [
+["Locate a nearby hardware store.", "LLM"],
+["Do you sell light bulbs?", "Non-LLM"],
+["Add 'light bulbs' to my shopping list.", "LLM"],
+["Compare energy-efficient options.", "LLM"],
+["I'll take two of these.", "Non-LLM"]
+]
+},
+{
+"ID": 339,
+"Segments": [
+["What's the schedule for local tours?", "LLM"],
+["Are there any spots left for the 3 PM tour?", "Non-LLM"],
+["Book a ticket.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Thank you, looking forward to it.", "Non-LLM"]
+]
+},
+{
+"ID": 340,
+"Segments": [
+["Find an open-air market nearby.", "LLM"],
+["What fresh produce do you have today?", "Non-LLM"],
+["Add 'strawberries' to my shopping list.", "LLM"],
+["Check recipes with strawberries.", "LLM"],
+["These look great, I'll take a pound.", "Non-LLM"]
+]
+},
+{
+"ID": 341,
+"Segments": [
+["Locate the nearest car rental service.", "LLM"],
+["I'm looking to rent a car for two days.", "Non-LLM"],
+["Compare rental rates.", "LLM"],
+["Book a compact car.", "LLM"],
+["Here's my license.", "Non-LLM"]
+]
+},
+{
+"ID": 342,
+"Segments": [
+["Find nearby volunteering opportunities.", "LLM"],
+["How can I sign up to help?", "Non-LLM"],
+["Add 'volunteer work' to my calendar.", "LLM"],
+["Get directions to the location.", "LLM"],
+["Thank you for the information.", "Non-LLM"]
+]
+},
+{
+"ID": 343,
+"Segments": [
+["What's the battery level of my headphones?", "LLM"],
+["Excuse me, do you sell portable chargers?", "Non-LLM"],
+["Add 'portable charger' to my shopping list.", "LLM"],
+["Check for discounts.", "LLM"],
+["Perfect, I'll buy this one.", "Non-LLM"]
+]
+},
+{
+"ID": 344,
+"Segments": [
+["Locate the nearest emergency exit.", "LLM"],
+["Is this the way out?", "Non-LLM"],
+["Activate flashlight mode.", "LLM"],
+["Call emergency services.", "LLM"],
+["Thank you, I see it now.", "Non-LLM"]
+]
+},
+{
+"ID": 345,
+"Segments": [
+["Find live music venues nearby.", "LLM"],
+["Is there a cover charge tonight?", "Non-LLM"],
+["Purchase a ticket.", "LLM"],
+["Add event to my calendar.", "LLM"],
+["Great, I'll be back later.", "Non-LLM"]
+]
+},
+{
+"ID": 346,
+"Segments": [
+["What's the nearest exit to Gate B?", "LLM"],
+["Excuse me, which way to Gate B?", "Non-LLM"],
+["Estimate walking time to the gate.", "LLM"],
+["Notify Mike of my location.", "LLM"],
+["Thanks for your help.", "Non-LLM"]
+]
+},
+{
+"ID": 347,
+"Segments": [
+["Play my outdoor adventure playlist.", "LLM"],
+["Hey, do you know if this trail is open?", "Non-LLM"],
+["Track my hiking route.", "LLM"],
+["What's the elevation gain?", "LLM"],
+["Appreciate the info!", "Non-LLM"]
+]
+},
+{
+"ID": 348,
+"Segments": [
+["Find local art classes.", "LLM"],
+["Do you have any spots available today?", "Non-LLM"],
+["Register for the class.", "LLM"],
+["Add to my schedule.", "LLM"],
+["Thank you, see you then.", "Non-LLM"]
+]
+},
+{
+"ID": 349,
+"Segments": [
+["Locate a first aid kit nearby.", "LLM"],
+["Excuse me, do you have a bandage?", "Non-LLM"],
+["Set a reminder to restock my kit.", "LLM"],
+["Check for pharmacies nearby.", "LLM"],
+["Thank you for your assistance.", "Non-LLM"]
+]
+},
+{
+"ID": 350,
+"Segments": [
+["Find a place to print documents.", "LLM"],
+["Can I print something here?", "Non-LLM"],
+["Send the document to the printer.", "LLM"],
+["Check my email for the attachment.", "LLM"],
+["Great, here's my USB drive.", "Non-LLM"]
+]
+},
+{
+"ID": 351,
+"Segments": [
+["Navigate to the nearest bus stop.", "LLM"],
+["Excuse me, does this bus go to downtown?", "Non-LLM"],
+["What's the arrival time of Bus 42?", "LLM"],
+["Set a reminder to buy a monthly pass.", "LLM"],
+["Thank you for your help!", "Non-LLM"]
+]
+},
+{
+"ID": 352,
+"Segments": [
+["Find a nearby open Wi-Fi network.", "LLM"],
+["Hi, is the Wi-Fi password available for customers?", "Non-LLM"],
+["Connect to the network.", "LLM"],
+["Check my email.", "LLM"],
+["Thanks, I appreciate it.", "Non-LLM"]
+]
+},
+{
+"ID": 353,
+"Segments": [
+["Locate the closest gym.", "LLM"],
+["Hello, can I get a day pass?", "Non-LLM"],
+["Play my workout playlist.", "LLM"],
+["Track my calories burned.", "LLM"],
+["Great, here's my ID.", "Non-LLM"]
+]
+},
+{
+"ID": 354,
+"Segments": [
+["What's the schedule for the next ferry?", "LLM"],
+["Excuse me, where do I purchase tickets?", "Non-LLM"],
+["Buy a round-trip ticket.", "LLM"],
+["Notify Sarah of my arrival time.", "LLM"],
+["Thank you for the directions.", "Non-LLM"]
+]
+},
+{
+"ID": 355,
+"Segments": [
+["Find vegan restaurants nearby.", "LLM"],
+["Do you have any gluten-free options?", "Non-LLM"],
+["Read reviews for this place.", "LLM"],
+["Make a reservation for one.", "LLM"],
+["Thank you, I'll wait to be seated.", "Non-LLM"]
+]
+},
+{
+"ID": 356,
+"Segments": [
+["Locate the nearest public swimming pool.", "LLM"],
+["Hi, what's the admission fee?", "Non-LLM"],
+["Set a timer for one hour.", "LLM"],
+["Track my swimming laps.", "LLM"],
+["Thanks, I'll take a ticket.", "Non-LLM"]
+]
+},
+{
+"ID": 357,
+"Segments": [
+["What's the current exchange rate for yen?", "LLM"],
+["Hello, I'd like to exchange currency.", "Non-LLM"],
+["Calculate how much I get for $300.", "LLM"],
+["Print the receipt.", "LLM"],
+["Thank you, have a nice day.", "Non-LLM"]
+]
+},
+{
+"ID": 358,
+"Segments": [
+["Find nearby art supply stores.", "LLM"],
+["Do you sell watercolor paints?", "Non-LLM"],
+["Add 'canvas' to my shopping list.", "LLM"],
+["Compare prices online.", "LLM"],
+["I'll buy these, please.", "Non-LLM"]
+]
+},
+{
+"ID": 359,
+"Segments": [
+["Navigate to the concert venue.", "LLM"],
+["Excuse me, is this the line for general admission?", "Non-LLM"],
+["Show my ticket barcode.", "LLM"],
+["Check for event updates.", "LLM"],
+["Thanks, can't wait for the show!", "Non-LLM"]
+]
+},
+{
+"ID": 360,
+"Segments": [
+["Locate a nearby ATM.", "LLM"],
+["Is there a transaction fee?", "Non-LLM"],
+["Withdraw $100.", "LLM"],
+["Check my account balance.", "LLM"],
+["Thank you.", "Non-LLM"]
+]
+},
+{
+"ID": 361,
+"Segments": [
+["Find the nearest postal drop box.", "LLM"],
+["Hi, can I buy some stamps?", "Non-LLM"],
+["Calculate postage for this package.", "LLM"],
+["Print a shipping label.", "LLM"],
+["Thanks for your assistance.", "Non-LLM"]
+]
+},
+{
+"ID": 362,
+"Segments": [
+["What's the schedule for the local cinema?", "LLM"],
+["Are there seats available for the 6 PM show?", "Non-LLM"],
+["Book a ticket.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Great, here's my payment.", "Non-LLM"]
+]
+},
+{
+"ID": 363,
+"Segments": [
+["Locate a nearby farmers market.", "LLM"],
+["What fruits are in season?", "Non-LLM"],
+["Add 'apples' to my shopping list.", "LLM"],
+["Check recipes using apples.", "LLM"],
+["I'll take a dozen, please.", "Non-LLM"]
+]
+},
+{
+"ID": 364,
+"Segments": [
+["Find the nearest hiking trail.", "LLM"],
+["Excuse me, is this the trailhead for Pine Loop?", "Non-LLM"],
+["Start tracking my hike.", "LLM"],
+["What's the distance to the summit?", "LLM"],
+["Thanks for the info!", "Non-LLM"]
+]
+},
+{
+"ID": 365,
+"Segments": [
+["Play jazz music.", "LLM"],
+["Is this seat taken?", "Non-LLM"],
+["Adjust volume to 50%.", "LLM"],
+["Set a timer for one hour.", "LLM"],
+["Thank you.", "Non-LLM"]
+]
+},
+{
+"ID": 366,
+"Segments": [
+["What's the local news today?", "LLM"],
+["Excuse me, where can I buy a newspaper?", "Non-LLM"],
+["Summarize the top headlines.", "LLM"],
+["Save this article for later.", "LLM"],
+["Thanks for your help.", "Non-LLM"]
+]
+},
+{
+"ID": 367,
+"Segments": [
+["Locate the nearest pet adoption center.", "LLM"],
+["Hi, I'm interested in adopting a cat.", "Non-LLM"],
+["Show me pictures of available cats.", "LLM"],
+["Set an appointment for a visit.", "LLM"],
+["Thank you, see you then.", "Non-LLM"]
+]
+},
+{
+"ID": 368,
+"Segments": [
+["Find a nearby yoga studio.", "LLM"],
+["Do you have drop-in classes?", "Non-LLM"],
+["Register for the 5 PM class.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Great, see you later.", "Non-LLM"]
+]
+},
+{
+"ID": 369,
+"Segments": [
+["What's the status of my package delivery?", "LLM"],
+["Hi, is there a delivery for me?", "Non-LLM"],
+["Track shipment.", "LLM"],
+["Notify me upon arrival.", "LLM"],
+["Thank you very much.", "Non-LLM"]
+]
+},
+{
+"ID": 370,
+"Segments": [
+["Locate the nearest skate park.", "LLM"],
+["Hey, mind if I join?", "Non-LLM"],
+["Record a video.", "LLM"],
+["Play my skateboarding playlist.", "LLM"],
+["Awesome, thanks!", "Non-LLM"]
+]
+},
+{
+"ID": 371,
+"Segments": [
+["Find nearby live theater shows.", "LLM"],
+["Are tickets available for tonight?", "Non-LLM"],
+["Purchase a ticket.", "LLM"],
+["Add event to my calendar.", "LLM"],
+["Thank you, looking forward to it.", "Non-LLM"]
+]
+},
+{
+"ID": 372,
+"Segments": [
+["What's the best route to avoid traffic?", "LLM"],
+["Excuse me, is there a detour ahead?", "Non-LLM"],
+["Adjust navigation settings.", "LLM"],
+["Play driving music.", "LLM"],
+["Thanks for the heads-up.", "Non-LLM"]
+]
+},
+{
+"ID": 373,
+"Segments": [
+["Locate a nearby flower shop.", "LLM"],
+["I'd like to buy a bouquet.", "Non-LLM"],
+["Add 'flowers' to my shopping list.", "LLM"],
+["Set a reminder for Mom's birthday.", "LLM"],
+["These are beautiful, thank you.", "Non-LLM"]
+]
+},
+{
+"ID": 374,
+"Segments": [
+["Find the nearest electronics repair shop.", "LLM"],
+["Can you fix my phone screen?", "Non-LLM"],
+["Backup my phone data.", "LLM"],
+["Set a reminder to pick up the phone.", "LLM"],
+["Thank you, I'll be back later.", "Non-LLM"]
+]
+},
+{
+"ID": 375,
+"Segments": [
+["What's the current stock price of Apple?", "LLM"],
+["Excuse me, can I get financial advice here?", "Non-LLM"],
+["Show market trends.", "LLM"],
+["Add to my watchlist.", "LLM"],
+["Thank you for your time.", "Non-LLM"]
+]
+},
+{
+"ID": 376,
+"Segments": [
+["Locate a nearby bakery.", "LLM"],
+["Do you have gluten-free options?", "Non-LLM"],
+["Add 'bread' to my shopping list.", "LLM"],
+["Check recipes for gluten-free bread.", "LLM"],
+["I'll take a loaf, please.", "Non-LLM"]
+]
+},
+{
+"ID": 377,
+"Segments": [
+["Find upcoming local workshops.", "LLM"],
+["Is there space in the photography class?", "Non-LLM"],
+["Register for the workshop.", "LLM"],
+["Add to my schedule.", "LLM"],
+["Great, see you then.", "Non-LLM"]
+]
+},
+{
+"ID": 378,
+"Segments": [
+["What's the pollen count today?", "LLM"],
+["Excuse me, do you sell allergy medication?", "Non-LLM"],
+["Set a reminder to take my meds.", "LLM"],
+["Check for side effects.", "LLM"],
+["Thank you for your help.", "Non-LLM"]
+]
+},
+{
+"ID": 379,
+"Segments": [
+["Locate the nearest beach.", "LLM"],
+["Is swimming allowed today?", "Non-LLM"],
+["Check tide schedules.", "LLM"],
+["Play beach music.", "LLM"],
+["Thanks for the info.", "Non-LLM"]
+]
+},
+{
+"ID": 380,
+"Segments": [
+["Find public charging stations nearby.", "LLM"],
+["Excuse me, can I charge my phone here?", "Non-LLM"],
+["Monitor battery level.", "LLM"],
+["Set an alarm for 30 minutes.", "LLM"],
+["Thank you, much appreciated.", "Non-LLM"]
+]
+},
+{
+"ID": 381,
+"Segments": [
+["What's the air quality index today?", "LLM"],
+["Is it safe to exercise outside?", "Non-LLM"],
+["Find indoor gyms nearby.", "LLM"],
+["Add 'air purifier' to my shopping list.", "LLM"],
+["Thanks for your advice.", "Non-LLM"]
+]
+},
+{
+"ID": 382,
+"Segments": [
+["Locate the nearest museum.", "LLM"],
+["Is there a discount for students?", "Non-LLM"],
+["Read about current exhibits.", "LLM"],
+["Purchase a ticket.", "LLM"],
+["Great, here's my student ID.", "Non-LLM"]
+]
+},
+{
+"ID": 383,
+"Segments": [
+["Find a nearby music store.", "LLM"],
+["Do you sell guitar strings?", "Non-LLM"],
+["Add 'guitar strings' to my shopping list.", "LLM"],
+["Compare prices online.", "LLM"],
+["I'll buy these, thanks.", "Non-LLM"]
+]
+},
+{
+"ID": 384,
+"Segments": [
+["What's the schedule for the local bus?", "LLM"],
+["Does this bus go to the university?", "Non-LLM"],
+["Set a reminder for the next bus.", "LLM"],
+["Purchase a ticket.", "LLM"],
+["Thank you!", "Non-LLM"]
+]
+},
+{
+"ID": 385,
+"Segments": [
+["Locate a nearby greenhouse.", "LLM"],
+["I'm looking for indoor plants.", "Non-LLM"],
+["Add 'succulents' to my shopping list.", "LLM"],
+["Find care tips for succulents.", "LLM"],
+["I'll take these, please.", "Non-LLM"]
+]
+},
+{
+"ID": 386,
+"Segments": [
+["Find local cooking classes.", "LLM"],
+["Are there openings in the Italian cuisine class?", "Non-LLM"],
+["Register for the class.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Thank you, see you then.", "Non-LLM"]
+]
+},
+{
+"ID": 387,
+"Segments": [
+["What's the traffic like to the airport?", "LLM"],
+["Taxi! Can you take me to JFK Airport?", "Non-LLM"],
+["Estimate arrival time.", "LLM"],
+["Check flight status.", "LLM"],
+["Thanks, here's my luggage.", "Non-LLM"]
+]
+},
+{
+"ID": 388,
+"Segments": [
+["Locate a nearby bookstore.", "LLM"],
+["Do you have the latest mystery novel?", "Non-LLM"],
+["Add to my reading list.", "LLM"],
+["Compare prices online.", "LLM"],
+["I'll purchase it, thank you.", "Non-LLM"]
+]
+},
+{
+"ID": 389,
+"Segments": [
+["Find a place to donate clothes.", "LLM"],
+["Is this where I can drop off donations?", "Non-LLM"],
+["Set a reminder to organize my closet.", "LLM"],
+["Find local charity events.", "LLM"],
+["Thank you for your work.", "Non-LLM"]
+]
+},
+{
+"ID": 390,
+"Segments": [
+["What's the weather forecast for this weekend?", "LLM"],
+["Excuse me, do you know if the festival is still on?", "Non-LLM"],
+["Add the festival to my calendar.", "LLM"],
+["Set a reminder to buy tickets.", "LLM"],
+["Thanks for the update.", "Non-LLM"]
+]
+},
+{
+"ID": 391,
+"Segments": [
+["Locate the nearest tech conference.", "LLM"],
+["Are tickets still available?", "Non-LLM"],
+["Purchase a conference pass.", "LLM"],
+["Add sessions to my schedule.", "LLM"],
+["Thank you, looking forward to it.", "Non-LLM"]
+]
+},
+{
+"ID": 392,
+"Segments": [
+["Find a nearby language exchange meetup.", "LLM"],
+["Is there an event tonight?", "Non-LLM"],
+["Register for the meetup.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Great, see you then.", "Non-LLM"]
+]
+},
+{
+"ID": 393,
+"Segments": [
+["What's the local time in Sydney?", "LLM"],
+["Excuse me, can I make an international call from here?", "Non-LLM"],
+["Schedule a call with Emma.", "LLM"],
+["Set a reminder for time zone differences.", "LLM"],
+["Thank you for your assistance.", "Non-LLM"]
+]
+},
+{
+"ID": 394,
+"Segments": [
+["Locate a nearby wine tasting event.", "LLM"],
+["Do you have tickets for today?", "Non-LLM"],
+["Purchase a ticket.", "LLM"],
+["Add event to my calendar.", "LLM"],
+["Thank you, see you soon.", "Non-LLM"]
+]
+},
+{
+"ID": 395,
+"Segments": [
+["Find the nearest acupuncture clinic.", "LLM"],
+["Do you accept walk-ins?", "Non-LLM"],
+["Schedule an appointment.", "LLM"],
+["Set a reminder for the appointment.", "LLM"],
+["Thank you for your help.", "Non-LLM"]
+]
+},
+{
+"ID": 396,
+"Segments": [
+["What's the moon phase tonight?", "LLM"],
+["Excuse me, is there a stargazing event here?", "Non-LLM"],
+["Add event to my calendar.", "LLM"],
+["Set a reminder for 9 PM.", "LLM"],
+["Great, thanks for the info.", "Non-LLM"]
+]
+},
+{
+"ID": 397,
+"Segments": [
+["Locate the nearest bicycle repair shop.", "LLM"],
+["Can you fix a flat tire?", "Non-LLM"],
+["Add 'bike pump' to my shopping list.", "LLM"],
+["Set a reminder to pick up the bike.", "LLM"],
+["Thank you, I'll be back later.", "Non-LLM"]
+]
+},
+{
+"ID": 398,
+"Segments": [
+["Find a nearby co-working space.", "LLM"],
+["Is there a day pass available?", "Non-LLM"],
+["Book a desk for today.", "LLM"],
+["Connect to Wi-Fi.", "LLM"],
+["Thanks, I'll set up here.", "Non-LLM"]
+]
+},
+{
+"ID": 399,
+"Segments": [
+["What's the nearest exit to Gate C?", "LLM"],
+["Excuse me, which way to Gate C?", "Non-LLM"],
+["Estimate walking time.", "LLM"],
+["Notify Alex of my location.", "LLM"],
+["Thanks for your assistance.", "Non-LLM"]
+]
+},
+{
+"ID": 400,
+"Segments": [
+["Locate a nearby science museum.", "LLM"],
+["Are tickets available for the planetarium show?", "Non-LLM"],
+["Purchase a ticket.", "LLM"],
+["Add to my calendar.", "LLM"],
+["Thank you, can't wait!", "Non-LLM"]
+]
+}
+]
